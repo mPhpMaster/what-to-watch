@@ -1,0 +1,1800 @@
+[
+  {
+    "id": "rashash",
+    "titleAr": "رشاش",
+    "titleEn": "Rashash",
+    "year": 2021,
+    "kind": "series",
+    "genresAr": [
+      "جريمة",
+      "دراما",
+      "سعودي"
+    ],
+    "moods": [
+      "thrill",
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 1,
+    "familyFriendly": false,
+    "audience": [
+      "alone",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 88,
+    "overviewAr": "قصة صعود وسقوط أخطر مجرم في الجزيرة العربية، ومطاردة استمرت سنوات. عمل سعودي مشدود من أول حلقة.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "al-asouf",
+    "titleAr": "العاصوف",
+    "titleEn": "Al Asouf",
+    "year": 2018,
+    "kind": "series",
+    "genresAr": [
+      "دراما",
+      "تاريخي",
+      "سعودي"
+    ],
+    "moods": [
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 4,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 82,
+    "overviewAr": "حكاية عائلة سعودية تعيش تحولات السبعينات وما بعدها. حنين ودراما اجتماعية تناسب سهرة العائلة.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "tash-ma-tash",
+    "titleAr": "طاش ما طاش",
+    "titleEn": "Tash Ma Tash",
+    "year": 1993,
+    "kind": "series",
+    "genresAr": [
+      "كوميديا",
+      "ساخر",
+      "سعودي"
+    ],
+    "moods": [
+      "laugh"
+    ],
+    "timeBucket": "short",
+    "seasons": 18,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 85,
+    "overviewAr": "الكوميديا السعودية الأشهر على الإطلاق، حلقات منفصلة تسخر من الحياة اليومية. حلقة وحدة وتضحك.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "selfie",
+    "titleAr": "سيلفي",
+    "titleEn": "Selfie",
+    "year": 2015,
+    "kind": "series",
+    "genresAr": [
+      "كوميديا",
+      "ساخر"
+    ],
+    "moods": [
+      "laugh"
+    ],
+    "timeBucket": "short",
+    "seasons": 5,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 80,
+    "overviewAr": "ناصر القصبي يسخر من قضايا المجتمع بحلقات قصيرة منفصلة. خفيف وجريء ومضحك.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "masameer-county",
+    "titleAr": "مسامير",
+    "titleEn": "Masameer County",
+    "year": 2021,
+    "kind": "series",
+    "genresAr": [
+      "أنيميشن",
+      "كوميديا",
+      "سعودي"
+    ],
+    "moods": [
+      "laugh",
+      "chill"
+    ],
+    "timeBucket": "short",
+    "seasons": 2,
+    "familyFriendly": false,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 78,
+    "overviewAr": "أنيميشن سعودي ساخر بشخصيات صارت أيقونة. حلقات قصيرة تعدي الوقت بسرعة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "sattar",
+    "titleAr": "سطار",
+    "titleEn": "Sattar",
+    "year": 2022,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا",
+      "رياضة"
+    ],
+    "moods": [
+      "laugh"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 110,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 79,
+    "overviewAr": "شاب يحلم بالمصارعة الحرة ويقرر يدخل الحلبة رغم كل شي. كوميديا سعودية خفيفة ومحبوبة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "shams-almaarif",
+    "titleAr": "شمس المعارف",
+    "titleEn": "Shams Al-Maarif",
+    "year": 2020,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا",
+      "دراما"
+    ],
+    "moods": [
+      "laugh",
+      "drama"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 105,
+    "familyFriendly": true,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 68,
+    "overviewAr": "مجموعة طلاب في التسعينات يحاولون تصوير فيلم رعب في مدينة محافظة. حنين وضحك بنكهة سعودية.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "mandoob",
+    "titleAr": "مندوب الليل",
+    "titleEn": "Mandoob",
+    "year": 2023,
+    "kind": "movie",
+    "genresAr": [
+      "إثارة",
+      "دراما"
+    ],
+    "moods": [
+      "thrill",
+      "drama"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 110,
+    "familyFriendly": false,
+    "audience": [
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 66,
+    "overviewAr": "مندوب توصيل في ليل الرياض يتورط في طريق ما فيه رجعة. فيلم سعودي متوتر وواقعي.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "bab-al-hara",
+    "titleAr": "باب الحارة",
+    "titleEn": "Bab Al Hara",
+    "year": 2006,
+    "kind": "series",
+    "genresAr": [
+      "دراما",
+      "تاريخي"
+    ],
+    "moods": [
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 12,
+    "familyFriendly": true,
+    "audience": [
+      "family"
+    ],
+    "iconic": true,
+    "popularity": 84,
+    "overviewAr": "حارة شامية في زمن الاحتلال الفرنسي، وحكايات أهلها اللي ما تنتهي. مسلسل العائلة الأول لسنوات.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "al-hayba",
+    "titleAr": "الهيبة",
+    "titleEn": "Al Hayba",
+    "year": 2017,
+    "kind": "series",
+    "genresAr": [
+      "أكشن",
+      "دراما",
+      "جريمة"
+    ],
+    "moods": [
+      "thrill",
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 5,
+    "familyFriendly": false,
+    "audience": [
+      "alone",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 83,
+    "overviewAr": "عائلة تتحكم في قرية حدودية بين لبنان وسوريا، وصراع على السلطة والدم. أكشن عربي بإنتاج ضخم.",
+    "platforms": {
+      "shahid": true,
+      "netflix": true
+    }
+  },
+  {
+    "id": "dofaat-beirut",
+    "titleAr": "دفعة بيروت",
+    "titleEn": "Dofaat Beirut",
+    "year": 2021,
+    "kind": "series",
+    "genresAr": [
+      "دراما"
+    ],
+    "moods": [
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 1,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 62,
+    "overviewAr": "طلاب خليجيون يدرسون في بيروت الستينات، وتتشابك حياتهم مع مدينة تتغير. دراما هادئة وأنيقة.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "arous-beirut",
+    "titleAr": "عروس بيروت",
+    "titleEn": "Arous Beirut",
+    "year": 2019,
+    "kind": "series",
+    "genresAr": [
+      "دراما",
+      "رومانسي"
+    ],
+    "moods": [
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 3,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 74,
+    "overviewAr": "زواج يجمع بين عالمين مختلفين وعائلة ما ترحم. دراما اجتماعية تشد من حلقة لحلقة.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "paranormal",
+    "titleAr": "ما وراء الطبيعة",
+    "titleEn": "Paranormal",
+    "year": 2020,
+    "kind": "series",
+    "genresAr": [
+      "رعب",
+      "غموض"
+    ],
+    "moods": [
+      "horror",
+      "thrill"
+    ],
+    "timeBucket": "short",
+    "seasons": 1,
+    "familyFriendly": false,
+    "audience": [
+      "alone",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 81,
+    "overviewAr": "دكتور رفعت إسماعيل يواجه أحداث ما لها تفسير، مأخوذ عن روايات أحمد خالد توفيق. رعب عربي بطعم التسعينات.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "alrawabi-school",
+    "titleAr": "مدرسة الروابي للبنات",
+    "titleEn": "AlRawabi School for Girls",
+    "year": 2021,
+    "kind": "series",
+    "genresAr": [
+      "دراما",
+      "مراهقة"
+    ],
+    "moods": [
+      "drama"
+    ],
+    "timeBucket": "short",
+    "seasons": 2,
+    "familyFriendly": false,
+    "audience": [
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 80,
+    "overviewAr": "طالبة تتعرض للتنمر وتقرر ترد بطريقتها. دراما عربية جريئة وحلقاتها قصيرة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "jinn",
+    "titleAr": "جن",
+    "titleEn": "Jinn",
+    "year": 2019,
+    "kind": "series",
+    "genresAr": [
+      "رعب",
+      "فانتازيا"
+    ],
+    "moods": [
+      "horror"
+    ],
+    "timeBucket": "short",
+    "seasons": 1,
+    "familyFriendly": false,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 58,
+    "overviewAr": "رحلة مدرسية إلى البتراء توقظ شي ما كان المفروض يصحى. رعب عربي بحلقات قصيرة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "dollar",
+    "titleAr": "دولار",
+    "titleEn": "Dollar",
+    "year": 2019,
+    "kind": "series",
+    "genresAr": [
+      "كوميديا",
+      "دراما"
+    ],
+    "moods": [
+      "laugh",
+      "drama"
+    ],
+    "timeBucket": "short",
+    "seasons": 1,
+    "familyFriendly": true,
+    "audience": [
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 57,
+    "overviewAr": "ورقة دولار واحدة تقلب حياة موظف في وكالة إعلانات. كوميديا لبنانية خفيفة وذكية.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "perfect-strangers-ar",
+    "titleAr": "أصحاب ولا أعز",
+    "titleEn": "Perfect Strangers",
+    "year": 2022,
+    "kind": "movie",
+    "genresAr": [
+      "دراما",
+      "كوميديا"
+    ],
+    "moods": [
+      "drama",
+      "laugh"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 100,
+    "familyFriendly": false,
+    "audience": [
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 77,
+    "overviewAr": "أصدقاء يقررون يفتحون رسائل جوالاتهم على السفرة، والأسرار تنفجر. فيلم أثار جدل واسع.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "sahib-almaqam",
+    "titleAr": "صاحب المقام",
+    "titleEn": "Sahib Al Maqam",
+    "year": 2021,
+    "kind": "movie",
+    "genresAr": [
+      "دراما",
+      "روحاني"
+    ],
+    "moods": [
+      "drama"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 130,
+    "familyFriendly": true,
+    "audience": [
+      "family"
+    ],
+    "iconic": false,
+    "popularity": 64,
+    "overviewAr": "رجل أعمال يهدم مقام ولي، فتتغير حياته رأساً على عقب. دراما روحانية هادئة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "blue-elephant",
+    "titleAr": "الفيل الأزرق",
+    "titleEn": "The Blue Elephant",
+    "year": 2014,
+    "kind": "movie",
+    "genresAr": [
+      "إثارة",
+      "غموض",
+      "رعب"
+    ],
+    "moods": [
+      "thrill",
+      "horror"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 170,
+    "familyFriendly": false,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 90,
+    "overviewAr": "طبيب نفسي يرجع للعمل في العباسية ويواجه حالة تقلب حياته. أفضل فيلم إثارة عربي بشهادة الجمهور.",
+    "platforms": {
+      "shahid": true,
+      "netflix": true
+    }
+  },
+  {
+    "id": "blue-elephant-2",
+    "titleAr": "الفيل الأزرق 2",
+    "titleEn": "The Blue Elephant 2",
+    "year": 2019,
+    "kind": "movie",
+    "genresAr": [
+      "إثارة",
+      "رعب"
+    ],
+    "moods": [
+      "thrill",
+      "horror"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 130,
+    "familyFriendly": false,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 86,
+    "overviewAr": "يحيى يرجع لمواجهة عالم أعمق وأظلم من الأول. تكملة أضخم وأكثر رعباً.",
+    "platforms": {
+      "shahid": true,
+      "netflix": true
+    }
+  },
+  {
+    "id": "welad-rizk",
+    "titleAr": "ولاد رزق",
+    "titleEn": "Welad Rizk",
+    "year": 2015,
+    "kind": "movie",
+    "genresAr": [
+      "أكشن",
+      "جريمة"
+    ],
+    "moods": [
+      "thrill"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 120,
+    "familyFriendly": false,
+    "audience": [
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 85,
+    "overviewAr": "أربع إخوة يرجعون لعالم السرقة لأجل ضربة واحدة أخيرة. أكشن مصري سريع ومسلي.",
+    "platforms": {
+      "shahid": true,
+      "netflix": true
+    }
+  },
+  {
+    "id": "welad-rizk-2",
+    "titleAr": "ولاد رزق 2: عودة أسود الأرض",
+    "titleEn": "Welad Rizk 2",
+    "year": 2019,
+    "kind": "movie",
+    "genresAr": [
+      "أكشن",
+      "جريمة"
+    ],
+    "moods": [
+      "thrill"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 125,
+    "familyFriendly": false,
+    "audience": [
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 83,
+    "overviewAr": "الإخوة يرجعون بضربة أكبر وخصوم أخطر. أكشن مضاعف عن الجزء الأول.",
+    "platforms": {
+      "shahid": true,
+      "netflix": true
+    }
+  },
+  {
+    "id": "hepta",
+    "titleAr": "هيبتا: المحاضرة الأخيرة",
+    "titleEn": "Hepta: The Last Lecture",
+    "year": 2016,
+    "kind": "movie",
+    "genresAr": [
+      "رومانسي",
+      "دراما"
+    ],
+    "moods": [
+      "drama"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 120,
+    "familyFriendly": true,
+    "audience": [
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 82,
+    "overviewAr": "محاضرة تشرح مراحل الحب السبعة من خلال أربع قصص. فيلم رومانسي صار علامة عند جيل كامل.",
+    "platforms": {
+      "shahid": true,
+      "netflix": true
+    }
+  },
+  {
+    "id": "el-asleyeen",
+    "titleAr": "الأصليين",
+    "titleEn": "The Originals",
+    "year": 2017,
+    "kind": "movie",
+    "genresAr": [
+      "غموض",
+      "إثارة"
+    ],
+    "moods": [
+      "thrill",
+      "drama"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 110,
+    "familyFriendly": true,
+    "audience": [
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 70,
+    "overviewAr": "موظف بنك يكتشف منظمة تراقب حياة الناس بالتفصيل. غموض هادئ يخليك تفكر بعد ما يخلص.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "sheikh-jackson",
+    "titleAr": "الشيخ جاكسون",
+    "titleEn": "Sheikh Jackson",
+    "year": 2017,
+    "kind": "movie",
+    "genresAr": [
+      "دراما"
+    ],
+    "moods": [
+      "drama"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 93,
+    "familyFriendly": true,
+    "audience": [
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 61,
+    "overviewAr": "شيخ متشدد ينهار عالمه يوم يموت مايكل جاكسون. دراما إنسانية عن الطفولة والهوية.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "el-limby",
+    "titleAr": "اللمبي",
+    "titleEn": "El Limby",
+    "year": 2002,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا"
+    ],
+    "moods": [
+      "laugh"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 110,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 87,
+    "overviewAr": "اللمبي يطلع من السجن ويحاول يمشي حياته بطريقته. من أشهر كوميديات محمد سعد على الإطلاق.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "el-nazer",
+    "titleAr": "الناظر",
+    "titleEn": "El Nazer",
+    "year": 2000,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا"
+    ],
+    "moods": [
+      "laugh"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 120,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 88,
+    "overviewAr": "ابن ناظر المدرسة يورث المنصب وهو آخر واحد يستاهله. كوميديا كلاسيكية ما تمل.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "saidi-fil-gamaa",
+    "titleAr": "صعيدي في الجامعة الأمريكية",
+    "titleEn": "Saidi in the American University",
+    "year": 1998,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا"
+    ],
+    "moods": [
+      "laugh"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 120,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 86,
+    "overviewAr": "شاب صعيدي يدخل الجامعة الأمريكية ويقلب الدنيا. من أنجح كوميديات التسعينات.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "el-erhab-wal-kabab",
+    "titleAr": "الإرهاب والكباب",
+    "titleEn": "Terrorism and Kebab",
+    "year": 1992,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا",
+      "ساخر"
+    ],
+    "moods": [
+      "laugh"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 105,
+    "familyFriendly": true,
+    "audience": [
+      "family"
+    ],
+    "iconic": true,
+    "popularity": 84,
+    "overviewAr": "مواطن بسيط يتحول بالصدفة إلى خاطف رهائن، وكل مطلبه صحون كباب. سخرية سياسية خالدة.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "assal-eswed",
+    "titleAr": "عسل أسود",
+    "titleEn": "Black Honey",
+    "year": 2010,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا",
+      "دراما"
+    ],
+    "moods": [
+      "laugh",
+      "drama"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 120,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 81,
+    "overviewAr": "مصري عايش في أمريكا يرجع بلده ويكتشف الفرق بين الجواز المصري والأمريكي. ضحك مع لمسة حنين.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "el-gazira",
+    "titleAr": "الجزيرة",
+    "titleEn": "The Island",
+    "year": 2007,
+    "kind": "movie",
+    "genresAr": [
+      "أكشن",
+      "جريمة"
+    ],
+    "moods": [
+      "thrill"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 130,
+    "familyFriendly": false,
+    "audience": [
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 79,
+    "overviewAr": "صعود تاجر سلاح ومخدرات يحكم جزيرة كاملة. أكشن مصري مبني على قصة حقيقية.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "teamour-w-shafika",
+    "titleAr": "تيمور وشفيقة",
+    "titleEn": "Teamour and Shafika",
+    "year": 2007,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا",
+      "رومانسي"
+    ],
+    "moods": [
+      "laugh",
+      "drama"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 120,
+    "familyFriendly": true,
+    "audience": [
+      "family"
+    ],
+    "iconic": true,
+    "popularity": 78,
+    "overviewAr": "حارس شخصي يكتشف إن اللي يحرسها هي حبيبته وصارت وزيرة. رومانسية كوميدية محبوبة.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "morgan-ahmed-morgan",
+    "titleAr": "مرجان أحمد مرجان",
+    "titleEn": "Morgan Ahmed Morgan",
+    "year": 2007,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا"
+    ],
+    "moods": [
+      "laugh"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 115,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 76,
+    "overviewAr": "رجل أعمال يشتري جامعة عشان ياخذ شهادة، بس الجامعة لها رأي ثاني. عادل إمام في قمة خفة ظله.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "stranger-things",
+    "titleAr": "أشياء غريبة",
+    "titleEn": "Stranger Things",
+    "year": 2016,
+    "kind": "series",
+    "genresAr": [
+      "خيال علمي",
+      "رعب",
+      "مغامرة"
+    ],
+    "moods": [
+      "thrill",
+      "horror"
+    ],
+    "timeBucket": "binge",
+    "seasons": 5,
+    "familyFriendly": false,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 92,
+    "overviewAr": "أطفال في بلدة صغيرة يكتشفون عالم مقلوب وكائن ما ينوصف. أشهر مسلسل نتفليكس على الإطلاق.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "money-heist",
+    "titleAr": "لا كاسا دي بابيل",
+    "titleEn": "Money Heist",
+    "year": 2017,
+    "kind": "series",
+    "genresAr": [
+      "جريمة",
+      "إثارة"
+    ],
+    "moods": [
+      "thrill"
+    ],
+    "timeBucket": "binge",
+    "seasons": 5,
+    "familyFriendly": false,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 91,
+    "overviewAr": "عصابة بأقنعة حمراء تنفذ أكبر سرقة في تاريخ إسبانيا بخطة عبقرية. إدمان من أول حلقة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "squid-game",
+    "titleAr": "لعبة الحبار",
+    "titleEn": "Squid Game",
+    "year": 2021,
+    "kind": "series",
+    "genresAr": [
+      "إثارة",
+      "دراما"
+    ],
+    "moods": [
+      "thrill"
+    ],
+    "timeBucket": "binge",
+    "seasons": 3,
+    "familyFriendly": false,
+    "audience": [
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 90,
+    "overviewAr": "مديونون يدخلون ألعاب أطفال، والخسارة تعني الموت. ظاهرة عالمية ما تنسى.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "wednesday",
+    "titleAr": "وينزداي",
+    "titleEn": "Wednesday",
+    "year": 2022,
+    "kind": "series",
+    "genresAr": [
+      "غموض",
+      "كوميديا سوداء"
+    ],
+    "moods": [
+      "thrill",
+      "laugh"
+    ],
+    "timeBucket": "short",
+    "seasons": 2,
+    "familyFriendly": false,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 85,
+    "overviewAr": "وينزداي أدامز تحقق في سلسلة جرائم داخل أكاديمية غريبة. غموض بروح ساخرة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "the-witcher",
+    "titleAr": "الساحر",
+    "titleEn": "The Witcher",
+    "year": 2019,
+    "kind": "series",
+    "genresAr": [
+      "فانتازيا",
+      "أكشن"
+    ],
+    "moods": [
+      "thrill"
+    ],
+    "timeBucket": "binge",
+    "seasons": 4,
+    "familyFriendly": false,
+    "audience": [
+      "alone",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 76,
+    "overviewAr": "صياد وحوش يتنقل بين الممالك ويحاول يهرب من مصير مكتوب. فانتازيا بمعارك ضخمة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "dark",
+    "titleAr": "دارك",
+    "titleEn": "Dark",
+    "year": 2017,
+    "kind": "series",
+    "genresAr": [
+      "خيال علمي",
+      "غموض"
+    ],
+    "moods": [
+      "thrill",
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 3,
+    "familyFriendly": false,
+    "audience": [
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 72,
+    "overviewAr": "اختفاء أطفال في بلدة ألمانية يفتح باب سفر عبر الزمن. معقد وعبقري، يبي تركيز كامل.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "lupin",
+    "titleAr": "لوبين",
+    "titleEn": "Lupin",
+    "year": 2021,
+    "kind": "series",
+    "genresAr": [
+      "جريمة",
+      "غموض"
+    ],
+    "moods": [
+      "thrill"
+    ],
+    "timeBucket": "short",
+    "seasons": 3,
+    "familyFriendly": true,
+    "audience": [
+      "alone",
+      "family"
+    ],
+    "iconic": false,
+    "popularity": 70,
+    "overviewAr": "لص أنيق يثأر لوالده بسرقات مستحيلة في باريس. حلقات قصيرة وذكية.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "queens-gambit",
+    "titleAr": "افتتاحية الملكة",
+    "titleEn": "The Queen's Gambit",
+    "year": 2020,
+    "kind": "series",
+    "genresAr": [
+      "دراما"
+    ],
+    "moods": [
+      "drama"
+    ],
+    "timeBucket": "short",
+    "seasons": 1,
+    "familyFriendly": true,
+    "audience": [
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 76,
+    "overviewAr": "يتيمة تكتشف عبقريتها في الشطرنج وتصعد لقمة العالم. مسلسل قصير ومتقن من أوله لآخره.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "alice-in-borderland",
+    "titleAr": "أليس في بلاد الحدود",
+    "titleEn": "Alice in Borderland",
+    "year": 2020,
+    "kind": "series",
+    "genresAr": [
+      "إثارة",
+      "خيال علمي"
+    ],
+    "moods": [
+      "thrill"
+    ],
+    "timeBucket": "binge",
+    "seasons": 3,
+    "familyFriendly": false,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 74,
+    "overviewAr": "شباب ينحبسون في طوكيو فاضية ويجبرون على ألعاب مميتة. لو عجبك لعبة الحبار، هذا لك.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "breaking-bad",
+    "titleAr": "بريكنغ باد",
+    "titleEn": "Breaking Bad",
+    "year": 2008,
+    "kind": "series",
+    "genresAr": [
+      "جريمة",
+      "دراما"
+    ],
+    "moods": [
+      "drama",
+      "thrill"
+    ],
+    "timeBucket": "binge",
+    "seasons": 5,
+    "familyFriendly": false,
+    "audience": [
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 89,
+    "overviewAr": "مدرس كيمياء يكتشف إنه مريض بالسرطان ويقرر يدخل عالم المخدرات. من أعظم المسلسلات في التاريخ.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "peaky-blinders",
+    "titleAr": "بيكي بلايندرز",
+    "titleEn": "Peaky Blinders",
+    "year": 2013,
+    "kind": "series",
+    "genresAr": [
+      "جريمة",
+      "دراما"
+    ],
+    "moods": [
+      "drama",
+      "thrill"
+    ],
+    "timeBucket": "binge",
+    "seasons": 6,
+    "familyFriendly": false,
+    "audience": [
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 80,
+    "overviewAr": "عائلة شيلبي تحكم شوارع برمنغهام بعد الحرب العالمية الأولى. أسلوب وأناقة وعنف.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "narcos",
+    "titleAr": "ناركوس",
+    "titleEn": "Narcos",
+    "year": 2015,
+    "kind": "series",
+    "genresAr": [
+      "جريمة",
+      "دراما"
+    ],
+    "moods": [
+      "thrill",
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 3,
+    "familyFriendly": false,
+    "audience": [
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 75,
+    "overviewAr": "قصة بابلو إسكوبار وحرب كولومبيا على المخدرات. مبني على أحداث حقيقية.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "black-mirror",
+    "titleAr": "المرآة السوداء",
+    "titleEn": "Black Mirror",
+    "year": 2011,
+    "kind": "series",
+    "genresAr": [
+      "خيال علمي",
+      "إثارة"
+    ],
+    "moods": [
+      "thrill",
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 7,
+    "familyFriendly": false,
+    "audience": [
+      "alone",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 77,
+    "overviewAr": "حلقات منفصلة عن الوجه المظلم للتقنية. كل حلقة قصة كاملة تخليك تعيد التفكير في جوالك.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "love-death-robots",
+    "titleAr": "الحب والموت والروبوتات",
+    "titleEn": "Love, Death & Robots",
+    "year": 2019,
+    "kind": "series",
+    "genresAr": [
+      "أنيميشن",
+      "خيال علمي"
+    ],
+    "moods": [
+      "thrill",
+      "chill"
+    ],
+    "timeBucket": "short",
+    "seasons": 4,
+    "familyFriendly": false,
+    "audience": [
+      "alone",
+      "friends"
+    ],
+    "iconic": false,
+    "popularity": 66,
+    "overviewAr": "قصص أنيميشن قصيرة، كل وحدة بعالم وأسلوب مختلف. الحلقة ما تتجاوز ربع ساعة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "our-planet",
+    "titleAr": "كوكبنا",
+    "titleEn": "Our Planet",
+    "year": 2019,
+    "kind": "series",
+    "genresAr": [
+      "وثائقي",
+      "طبيعة"
+    ],
+    "moods": [
+      "chill"
+    ],
+    "timeBucket": "short",
+    "seasons": 2,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "alone"
+    ],
+    "iconic": false,
+    "popularity": 68,
+    "overviewAr": "تصوير مذهل لطبيعة الأرض من القطب للغابة. مثالي للاسترخاء ومناسب لكل العائلة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "chefs-table",
+    "titleAr": "مائدة الشيف",
+    "titleEn": "Chef's Table",
+    "year": 2015,
+    "kind": "series",
+    "genresAr": [
+      "وثائقي",
+      "طعام"
+    ],
+    "moods": [
+      "chill"
+    ],
+    "timeBucket": "short",
+    "seasons": 7,
+    "familyFriendly": true,
+    "audience": [
+      "alone",
+      "family"
+    ],
+    "iconic": false,
+    "popularity": 59,
+    "overviewAr": "كل حلقة عن شيف عالمي وقصته مع الأكل. تصوير جميل وإيقاع هادي.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "nailed-it",
+    "titleAr": "نجحت فيها!",
+    "titleEn": "Nailed It!",
+    "year": 2018,
+    "kind": "series",
+    "genresAr": [
+      "كوميديا",
+      "طبخ"
+    ],
+    "moods": [
+      "laugh",
+      "chill"
+    ],
+    "timeBucket": "short",
+    "seasons": 7,
+    "familyFriendly": true,
+    "audience": [
+      "family"
+    ],
+    "iconic": false,
+    "popularity": 57,
+    "overviewAr": "هواة يحاولون يقلدون حلويات احترافية والنتيجة كارثة مضحكة. خفيف ومناسب للعائلة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "extraction",
+    "titleAr": "الإنقاذ",
+    "titleEn": "Extraction",
+    "year": 2020,
+    "kind": "movie",
+    "genresAr": [
+      "أكشن",
+      "إثارة"
+    ],
+    "moods": [
+      "thrill"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 116,
+    "familyFriendly": false,
+    "audience": [
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 79,
+    "overviewAr": "مرتزق يحاول ينقذ ابن تاجر مخدرات من قلب دكا. أكشن متواصل بمشاهد مطاردة أسطورية.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "red-notice",
+    "titleAr": "مذكرة حمراء",
+    "titleEn": "Red Notice",
+    "year": 2021,
+    "kind": "movie",
+    "genresAr": [
+      "أكشن",
+      "كوميديا"
+    ],
+    "moods": [
+      "thrill",
+      "laugh"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 118,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 77,
+    "overviewAr": "عميل إف بي آي يتحالف مع لص عالمي لمطاردة لصة أذكى منهم. أكشن خفيف ومسلي للجميع.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "dont-look-up",
+    "titleAr": "لا تنظر للأعلى",
+    "titleEn": "Don't Look Up",
+    "year": 2021,
+    "kind": "movie",
+    "genresAr": [
+      "كوميديا",
+      "ساخر"
+    ],
+    "moods": [
+      "laugh",
+      "drama"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 138,
+    "familyFriendly": false,
+    "audience": [
+      "alone",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 73,
+    "overviewAr": "عالمان يحاولان تحذير العالم من مذنب قادم، وما أحد ياخذهم بجد. سخرية لاذعة من زمننا.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "adam-project",
+    "titleAr": "مشروع آدم",
+    "titleEn": "The Adam Project",
+    "year": 2022,
+    "kind": "movie",
+    "genresAr": [
+      "مغامرة",
+      "خيال علمي"
+    ],
+    "moods": [
+      "thrill",
+      "chill"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 106,
+    "familyFriendly": true,
+    "audience": [
+      "family"
+    ],
+    "iconic": false,
+    "popularity": 70,
+    "overviewAr": "طيار من المستقبل يرجع بالزمن ويقابل نفسه وهو طفل. مغامرة عائلية فيها ضحك وقلب.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "enola-holmes",
+    "titleAr": "إينولا هولمز",
+    "titleEn": "Enola Holmes",
+    "year": 2020,
+    "kind": "movie",
+    "genresAr": [
+      "مغامرة",
+      "غموض"
+    ],
+    "moods": [
+      "thrill",
+      "chill"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 123,
+    "familyFriendly": true,
+    "audience": [
+      "family"
+    ],
+    "iconic": false,
+    "popularity": 68,
+    "overviewAr": "أخت شيرلوك هولمز الصغيرة تحل قضيتها الأولى بطريقتها. مغامرة مرحة تناسب العائلة.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "klaus",
+    "titleAr": "كلاوس",
+    "titleEn": "Klaus",
+    "year": 2019,
+    "kind": "movie",
+    "genresAr": [
+      "أنيميشن",
+      "عائلي"
+    ],
+    "moods": [
+      "chill",
+      "laugh"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 96,
+    "familyFriendly": true,
+    "audience": [
+      "family"
+    ],
+    "iconic": false,
+    "popularity": 72,
+    "overviewAr": "ساعي بريد كسول ينتهي في جزيرة متجمدة ويغير حياة أهلها. أنيميشن دافئ ورسمه رهيب.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "mitchells-vs-machines",
+    "titleAr": "عائلة ميتشل ضد الآلات",
+    "titleEn": "The Mitchells vs. the Machines",
+    "year": 2021,
+    "kind": "movie",
+    "genresAr": [
+      "أنيميشن",
+      "كوميديا"
+    ],
+    "moods": [
+      "laugh",
+      "chill"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 113,
+    "familyFriendly": true,
+    "audience": [
+      "family"
+    ],
+    "iconic": false,
+    "popularity": 69,
+    "overviewAr": "رحلة عائلية عادية تتحول لإنقاذ العالم من ثورة الروبوتات. أنيميشن سريع ومضحك للكل.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "bird-box",
+    "titleAr": "صندوق الطيور",
+    "titleEn": "Bird Box",
+    "year": 2018,
+    "kind": "movie",
+    "genresAr": [
+      "رعب",
+      "إثارة"
+    ],
+    "moods": [
+      "horror",
+      "thrill"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 124,
+    "familyFriendly": false,
+    "audience": [
+      "friends",
+      "alone"
+    ],
+    "iconic": true,
+    "popularity": 74,
+    "overviewAr": "أم وطفليها يهربون معصوبي الأعين، لأن النظر يعني الموت. توتر ما يهدأ.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "the-platform",
+    "titleAr": "المنصة",
+    "titleEn": "The Platform",
+    "year": 2019,
+    "kind": "movie",
+    "genresAr": [
+      "رعب",
+      "خيال علمي"
+    ],
+    "moods": [
+      "horror"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 94,
+    "familyFriendly": false,
+    "audience": [
+      "alone",
+      "friends"
+    ],
+    "iconic": false,
+    "popularity": 65,
+    "overviewAr": "سجن عمودي والأكل ينزل من فوق لتحت. رعب فيه رسالة قاسية عن الجشع.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "train-to-busan",
+    "titleAr": "قطار إلى بوسان",
+    "titleEn": "Train to Busan",
+    "year": 2016,
+    "kind": "movie",
+    "genresAr": [
+      "رعب",
+      "أكشن"
+    ],
+    "moods": [
+      "horror",
+      "thrill"
+    ],
+    "timeBucket": "movie",
+    "runtimeMin": 118,
+    "familyFriendly": false,
+    "audience": [
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 76,
+    "overviewAr": "أب وابنته في قطار يتحول لكابوس زومبي. رعب سريع وفيه مشاعر تكسر القلب.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "shabab-el-bomb",
+    "titleAr": "شباب البومب",
+    "titleEn": "Shabab El Bomb",
+    "year": 2015,
+    "kind": "series",
+    "genresAr": [
+      "كوميديا",
+      "سعودي"
+    ],
+    "moods": [
+      "laugh"
+    ],
+    "timeBucket": "binge",
+    "seasons": 10,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": true,
+    "popularity": 77,
+    "overviewAr": "شلة شباب في حارة شعبية ومواقف ما تنتهي. كوميديا سعودية بمواسم طويلة تكفيك أسبوع.",
+    "platforms": {
+      "shahid": true,
+      "netflix": false
+    }
+  },
+  {
+    "id": "hill-house",
+    "titleAr": "لعنة منزل هيل",
+    "titleEn": "The Haunting of Hill House",
+    "year": 2018,
+    "kind": "series",
+    "genresAr": [
+      "رعب",
+      "دراما"
+    ],
+    "moods": [
+      "horror",
+      "drama"
+    ],
+    "timeBucket": "binge",
+    "seasons": 1,
+    "familyFriendly": false,
+    "audience": [
+      "alone",
+      "friends"
+    ],
+    "iconic": false,
+    "popularity": 67,
+    "overviewAr": "عائلة تواجه أشباح بيت طفولتها بعد سنين. رعب نفسي مبني على دراما عائلية قوية.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "drive-to-survive",
+    "titleAr": "فورمولا 1: القيادة من أجل البقاء",
+    "titleEn": "Formula 1: Drive to Survive",
+    "year": 2019,
+    "kind": "series",
+    "genresAr": [
+      "وثائقي",
+      "رياضة"
+    ],
+    "moods": [
+      "chill",
+      "thrill"
+    ],
+    "timeBucket": "binge",
+    "seasons": 7,
+    "familyFriendly": true,
+    "audience": [
+      "family",
+      "friends"
+    ],
+    "iconic": false,
+    "popularity": 71,
+    "overviewAr": "خلف كواليس موسم الفورمولا 1 وصراعات السائقين والفرق. ممتع حتى لو ما تتابع السباقات.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  },
+  {
+    "id": "emily-in-paris",
+    "titleAr": "إيميلي في باريس",
+    "titleEn": "Emily in Paris",
+    "year": 2020,
+    "kind": "series",
+    "genresAr": [
+      "كوميديا",
+      "رومانسي"
+    ],
+    "moods": [
+      "chill",
+      "laugh"
+    ],
+    "timeBucket": "binge",
+    "seasons": 4,
+    "familyFriendly": true,
+    "audience": [
+      "alone",
+      "family"
+    ],
+    "iconic": false,
+    "popularity": 64,
+    "overviewAr": "أمريكية تنتقل لباريس وتواجه اختلاف كل شي. مسلسل خفيف وملون ما يبي تركيز.",
+    "platforms": {
+      "shahid": false,
+      "netflix": true
+    }
+  }
+]

@@ -1,26 +1,57 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #0a0a0f;
+  --surface: #15151f;
+  --surface-2: #1e1e2b;
+  --border: #2a2a3a;
+  --foreground: #f6f6f8;
+  --muted: #9c9cae;
+  --accent: #ff5a1f;
+  --accent-strong: #ff7a45;
+  --shahid: #6c4bf6;
+  --netflix: #e50914;
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--border);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-shahid: var(--shahid);
+  --color-netflix: var(--netflix);
+  /* Set per locale by the root layout: IBM Plex Sans Arabic for ar, Inter for en. */
+  --font-sans: var(--font-app);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-app), system-ui, sans-serif;
+  /* Arabic numerals render as Eastern Arabic by default in some stacks; keep Western. */
+  font-variant-numeric: lining-nums;
+}
+
+/* Horizontal carousels: hide the scrollbar, keep the scrolling. */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
