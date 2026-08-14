@@ -1,0 +1,18 @@
+# Secrets must never be uploaded — production env vars belong in Vercel's
+# project settings, not in the deployment payload.
+.env
+.env.*
+!.env.example
+
+node_modules
+.next
+.git
+
+# Stale lockfile from a previous setup; package-lock.json is the source of truth
+# and shipping both makes Vercel pick the wrong package manager.
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
+# Not needed to build or run the site.
+*.test.ts
+.claude
