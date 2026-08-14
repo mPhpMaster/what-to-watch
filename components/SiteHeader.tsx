@@ -7,7 +7,7 @@ export default function SiteHeader({ locale }: { locale: Locale }) {
   return (
     <header className="sticky top-0 z-20 border-b border-line bg-background/85 backdrop-blur">
       <div className="mx-auto flex max-w-5xl items-center justify-between gap-3 px-4 py-3 sm:px-6">
-        <Link href={`/${locale}`} className="flex items-center gap-2">
+        <Link href={`/${locale}`} className="flex min-h-11 items-center gap-2">
           <span className="grid size-8 place-items-center rounded-lg bg-accent text-base">
             🍿
           </span>
@@ -21,7 +21,7 @@ export default function SiteHeader({ locale }: { locale: Locale }) {
           </Suspense>
           <Link
             href={`/${locale}/quiz`}
-            className="rounded-lg border border-line px-3 py-1.5 text-sm font-semibold text-muted transition hover:border-accent hover:text-foreground"
+            className="inline-flex min-h-11 items-center rounded-lg border border-line px-3 text-sm font-semibold text-muted transition hover:border-accent hover:text-foreground"
           >
             {t(locale, "nav.takeQuiz")}
           </Link>

@@ -8,7 +8,7 @@ export default function SiteFooter({ locale }: { locale: Locale }) {
       <p className="mt-2">
         <Link
           href={`/${locale}/admin`}
-          className="underline underline-offset-4 hover:text-foreground"
+          className="inline-flex min-h-11 items-center underline underline-offset-4 hover:text-foreground"
         >
           {t(locale, "footer.admin")}
         </Link>
